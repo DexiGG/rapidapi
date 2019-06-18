@@ -1,0 +1,10 @@
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\bin\Debug\rapidapi.exe.config
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\bin\Debug\rapidapi.exe
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\bin\Debug\rapidapi.pdb
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\bin\Debug\Newtonsoft.Json.dll
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\bin\Debug\Newtonsoft.Json.xml
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\obj\Debug\rapidapi.csprojAssemblyReference.cache
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\obj\Debug\rapidapi.csproj.CoreCompileInputs.cache
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\obj\Debug\rapidapi.csproj.CopyComplete
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\obj\Debug\rapidapi.exe
+c:\users\джабашевн.corp\source\repos\rapidapi\rapidapi\obj\Debug\rapidapi.pdb
